@@ -1,13 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package Aula;
 
-/**
- *
- * @author patri
- */
+
 public class Aula_08 {
+    
+    public static void main (String[] Args){
+        
+        int x =1;
+        System.out.println("Eu tenho " + x + "\n pão com mortadela");
+    }
     
 }
